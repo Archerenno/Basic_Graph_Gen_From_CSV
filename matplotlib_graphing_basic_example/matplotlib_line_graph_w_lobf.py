@@ -1,3 +1,4 @@
+# Archie Simpson, June 2024
 import matplotlib.pyplot as plt
 import numpy as np
 #Importing the required modules and abbreviating them for easier future use
